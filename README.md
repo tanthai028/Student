@@ -22,18 +22,31 @@ Student not found!
 ```
 
 ```
-Choose from the following options:
-1- Add a new student
-2- Add/Delete a course
-3- Search for a student
-4- Print fee invoice
-0- Exit program
+Choose the following options:
+    1. Add new student
+    2. Add/Delete Course
+    3. Search
+    4. Invoice
+    0. Exit
+
 Enter your selection: 1
-Enter the student’s id: 5900 <<< Make sure that no student with id 5900 already exists
-Enter student’s name: John Smith
-Enter how many courses [JOHN SMITH] is taking (up to 4 courses)? 2 <<< Check for the validity of the number of how many courses
-Enter the 2 course numbers 4587 4599 <<< Check for the validity of the entered course numbers. <<< You may display the offered courses so it’s easy to pick the crns
-Student added successfully!
+Enter the student's id: 5900
+Enter the student's name: John Smith
+Enter how many courses John Smith is taking (up to 4 courses)? 2
+
+    CRN     PREFIX      CR. HOURS
+    4587    MAT 236     4
+    4599    COP 220     3
+    8997    GOL 124     1
+    9696    COP 100     3
+    1232    MAC 531     2
+    9856    STA 100     3
+    8520    TNV 400     4
+    8977    CMP 100     3
+
+Enter the 2 course numbers: 4587 4599
+
+Student added successfully
 ```
 
 ```
