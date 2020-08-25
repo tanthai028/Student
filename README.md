@@ -9,17 +9,16 @@ For your convenience, here is how you could do it in CMD environment.
 
 # Sample Run
 ```
-Sample Run (The user’s entry is in bold)
-Welcome!
-Choose from the following options:
-1- Add a new student
-2- Add/Delete a course
-3- Search for a student
-4- Print fee invoice
-0- Exit program
+Choose the following options:
+    1. Add new student
+    2. Add/Delete Course
+    3. Search
+    4. Invoice  
+    0. Exit
+
 Enter your selection: 3
-Enter the student’s id: 8989
-No Student found!
+Enter your student's ID: 8989
+Student not found!
 ```
 
 ```
