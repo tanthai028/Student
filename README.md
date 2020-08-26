@@ -50,25 +50,91 @@ Student added successfully
 ```
 
 ```
-Choose from the following options:
-1- Add a new student
-2- Add/Delete a course
-3- Search for a student
-4- Print fee invoice
-0- Exit program
-Enter your selection: 4 Enter the student’s id: 5959 (Assume that student 5959 has been already added)
-VALENCE COMMUNITY COLLEGE
-ORLANDO FL 10101
-```
+Choose the following options:
+    1. Add new student
+    2. Add/Delete Course
+    3. Search
+    4. Invoice
+    0. Exit
 
-```
-Fee Invoice Prepared for Student:
-5959-ALLAL TAZI
-1 Credit Hour = $120.25
-CRN CR_PREFIX CR_HOURS
-4587 MAT 236 4 $ 481.00
-4599 COP 220 3 $ 360.75
-Health & id fees $ 35.00
+Enter your selection: 2
+Enter your student's ID: 5900
+
+Here are the courses John Smith is taking:
+CRN     PREFIX      CR. HOURS
+4587    MAT 236     4
+4599    COP 220     3
+
+
+Choose from:
+A- Add a new course for John Smith
+D- Delete a course from John Smith’s schedule
+C- Cancel operation
+
+Enter your selection: D
+Enter the course number to delete: 4587
+
+[4587 MAT 236] is sucessfully deleted
+Want to display the new invoice(y or n).
+y
+
+    Valence Community College
+    Orlando Florida 10101
+    ---------------------------------------
+    Fee Invoice Prepared for Student: 
+    5900-John Smith
+
+    1 Credit Hour = 120.25
+
+    CRN  CR_PREFIX  CR_HOURS
+    4599    COP 220     3         $  360.75
+
+                 Health & ID fees $  35.00
+
+    ---------------------------------------
+                 Total payments   $  395.75Choose the following options:
+    1. Add new student
+    2. Add/Delete Course
+    3. Search
+    4. Invoice
+    0. Exit
+
+Enter your selection: 2
+Enter your student's ID: 5900
+
+Here are the courses John Smith is taking:
+CRN     PREFIX      CR. HOURS
+4587    MAT 236     4
+4599    COP 220     3
+
+
+Choose from:
+A- Add a new course for John Smith
+D- Delete a course from John Smith’s schedule
+C- Cancel operation
+
+Enter your selection: D
+Enter the course number to delete: 4587
+
+[4587 MAT 236] is sucessfully deleted
+Want to display the new invoice(y or n).
+y
+
+    Valence Community College
+    Orlando Florida 10101
+    ---------------------------------------
+    Fee Invoice Prepared for Student: 
+    5900-John Smith
+
+    1 Credit Hour = 120.25
+
+    CRN  CR_PREFIX  CR_HOURS
+    4599    COP 220     3         $  360.75
+
+                 Health & ID fees $  35.00
+
+    ---------------------------------------
+                 Total payments   $  395.75
 ```
 
 Total Payments $ 876.75
