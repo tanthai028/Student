@@ -94,3 +94,15 @@ y
     ---------------------------------------
                  Total payments   $  395.75
 ```
+```
+Choose the following options:
+    1. Add new student
+    2. Add/Delete Course
+    3. Search
+    4. Invoice
+    0. Exit
+
+Enter your selection: 0
+
+Goodbye!
+```
