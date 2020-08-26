@@ -8,7 +8,7 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Sample Run
-**Example edge case:**  
+**Example edge case**  
 ```
 Choose the following options:
     1. Add new student
