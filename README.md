@@ -8,6 +8,7 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Sample Run
+**Example edge case:**  
 ```
 Choose the following options:
     1. Add new student
@@ -20,7 +21,7 @@ Enter your selection: 3
 Enter your student's ID: 8989
 Student not found!
 ```
-
+**Adding a student**  
 ```
 Choose the following options:
     1. Add new student
@@ -48,7 +49,7 @@ Enter the 2 course numbers: 4587 4599
 
 Student added successfully
 ```
-
+**Deleting a course**  
 ```
 Choose the following options:
     1. Add new student
@@ -93,16 +94,4 @@ y
 
     ---------------------------------------
                  Total payments   $  395.75
-```
-```
-Choose the following options:
-    1. Add new student
-    2. Add/Delete Course
-    3. Search
-    4. Invoice
-    0. Exit
-
-Enter your selection: 0
-
-Goodbye!
 ```
