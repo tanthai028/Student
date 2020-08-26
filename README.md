@@ -4,7 +4,7 @@ Student is a C program I made during Fall of my freshman year of college to impl
 # Usage 
 For your convenience, here is how you could do it in CMD environment.
 
-1. First compile: gcc student.c
+1. First compile: gcc main.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Sample Run
