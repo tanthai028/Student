@@ -65,7 +65,6 @@ CRN     PREFIX      CR. HOURS
 4587    MAT 236     4
 4599    COP 220     3
 
-
 Choose from:
 A- Add a new course for John Smith
 D- Delete a course from John Smith’s schedule
